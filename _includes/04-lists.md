@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+I'm learning more about
+- Working with remote teams
+- Communicating with markdown
+- Contributing to open source
+
+🤔
