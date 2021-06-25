@@ -1,1 +1,1 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Looking West toward the hill](https://github.com/maxaglover/markdown-portfolio/blob/main/_includes/pioneerwest.jpg)
