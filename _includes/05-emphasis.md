@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Software support** and **data analysis** encompass much of my work, with some **software development** as time allows.
